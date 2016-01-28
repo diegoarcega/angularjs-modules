@@ -12,6 +12,8 @@ A collection of useful modules
 * grunt-contrib-htmlmin
 * grunt-purifycss
 * grunt-combine-media-queries
+* grunt-criticalcss
+* grunt-insert
 
 ## angularjs
 * angular-animate
